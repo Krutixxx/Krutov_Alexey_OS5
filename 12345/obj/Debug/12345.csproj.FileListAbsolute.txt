@@ -1,0 +1,6 @@
+/Users/krutix/Projects/12345/12345/obj/Debug/12345.csproj.AssemblyReference.cache
+/Users/krutix/Projects/12345/12345/obj/Debug/12345.csproj.CoreCompileInputs.cache
+/Users/krutix/Projects/12345/12345/bin/Debug/12345.exe
+/Users/krutix/Projects/12345/12345/bin/Debug/12345.pdb
+/Users/krutix/Projects/12345/12345/obj/Debug/12345.exe
+/Users/krutix/Projects/12345/12345/obj/Debug/12345.pdb
